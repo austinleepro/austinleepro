@@ -3,10 +3,10 @@
 
 ## Welcome
 
-![LuckyMan120's github stats](https://github-readme-stats.vercel.app/api?username=LuckyMan120&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
-![LuckyMan120's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMan120&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
+![Austin's github stats](https://github-readme-stats.vercel.app/api?username=Austin&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
+![Austin's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=LuckyMan120&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=Austin&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
 </p>
 
 ### Highlights
